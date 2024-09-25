@@ -1,0 +1,71 @@
+HECHO,TOTAL
+SECUESTRO-DESAPARICION,12489
+RECLUTAMIENTO-DESAPARICION,2476
+RECLUTAMIENTO-SECUESTRO,514
+TOTAL,480
+OTRO,4954
+PRESUNTO RESPONSABLE,TOTAL
+Grupos armados posdesmovilización,2392
+Grupos guerrilleros,30532
+Fuerza pública,5207
+Sin información,48504
+Grupos paramilitares,31431
+Otro Responsable,20132
+SEXO,RANGO DE EDAD,TOTAL
+FEMENINO,60-64 años,96
+MASCULINO,0-4 años,483
+FEMENINO,0-4 años,121
+MASCULINO,75-79 años,151
+FEMENINO,65-69 años,72
+FEMENINO,80 o más años,23
+MASCULINO,50-54 años,1484
+MASCULINO,25-29 años,5733
+FEMENINO,20-24 años,881
+FEMENINO,75-79 años,25
+FEMENINO,35-39 años,436
+FEMENINO,15-19 años,1371
+MASCULINO,5-9 años,735
+FEMENINO,55-59 años,149
+FEMENINO,30-34 años,582
+MASCULINO,70-74 años,271
+FEMENINO,70-74 años,52
+FEMENINO,25-29 años,751
+MASCULINO,60-64 años,668
+FEMENINO,10-14 años,706
+MASCULINO,65-69 años,434
+FEMENINO,40-44 años,376
+MASCULINO,45-49 años,2028
+MASCULINO,40-44 años,2756
+MASCULINO,10-14 años,1855
+MASCULINO,30-34 años,4756
+FEMENINO,5-9 años,140
+MASCULINO,15-19 años,5470
+MASCULINO,20-24 años,6352
+MASCULINO,55-59 años,970
+FEMENINO,50-54 años,237
+MASCULINO,80 o más años,168
+FEMENINO,45-49 años,243
+MASCULINO,35-39 años,3792
+SEXO BIOLÓGICO,TOTAL
+Datos múltiples,1483
+Hombre,94218
+Intersex,1
+Mujer,14048
+Sin información,1890
+RANGO DE EDAD,TOTAL
+Primera Infancia (0 - 5 años),769
+Infancia (6 - 11 años),1244
+Adolescencia (12 - 17 años),6427
+Juventud (18 - 28 años),15606
+Adultez (29 - 59 años),19219
+Persona Mayor (60 años o más),1995
+Datos múltiples,40553
+Sin información,25827
+PERTENENCIA ÉTNICA,TOTAL
+Datos múltiples,4287
+Indígena,2136
+"NARP (Negras, Afrocolombianas, Raizales y Palenqueras)",2074
+Rrom,8
+Sin información,103135
+Departamento,Municipio,Rango Años,Información de Año,Rango/s de Edad,Sexo,Pertenencia Étnica,Tipo de Hecho,Presunto Responsable,Fecha de actualización
+TODOS,TODOS,1921 a 2016,,,,,,,2024-03-15
